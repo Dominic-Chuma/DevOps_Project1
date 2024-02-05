@@ -18,6 +18,6 @@ You should see this on your screen.
 
 ![The Git_Bash itself!](./Z_initial_images/Git_launch.PNG "The app")  
 
-Thirdly, an free tier account on AWS should be created.
+Thirdly, a free tier account on AWS should be created.
 
 Fourthly, Install VS Code. Visit the official VS Code website to download the latest version of the VS Code installer for Windows.
